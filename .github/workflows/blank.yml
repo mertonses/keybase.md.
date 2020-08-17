@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am mertonses on github.
+  * I am hollowborn (https://keybase.io/hollowborn) on keybase.
+  * I have a public key ASDpxrsuXy1CfassDglSBY3-mngS7SGEvV_x-8tHcsF_9Ao
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e9c6bb2e5f2d427dab2c0e0952058dfe9a7812ed2184bd5ff1fbcb4772c17ff40a",
+      "host": "keybase.io",
+      "kid": "0120e9c6bb2e5f2d427dab2c0e0952058dfe9a7812ed2184bd5ff1fbcb4772c17ff40a",
+      "uid": "3d78b10f6fa45f30479153054ec9e119",
+      "username": "hollowborn"
+    },
+    "merkle_root": {
+      "ctime": 1597700733,
+      "hash": "5b534b4c7c78af5149439cb099b18aa7892b1dfb003f6d75d673fc5fb43af911f35db8ccc5a1357d5353fa2cd0262bddf5c74959faf370282cf9fdb707c3e6d1",
+      "hash_meta": "22a05ca2a0f828fa77849a92f1b0470e7e9dbb98967219c5899518fb327f335a",
+      "seqno": 17306469
+    },
+    "service": {
+      "entropy": "W1YZtgBsmG1BnE0S/1i8EEKP",
+      "name": "github",
+      "username": "mertonses"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1597700806,
+  "expire_in": 504576000,
+  "prev": "3bd841878f33537a2de653f385db23fd474fed7094d3da0b505d9939c014a2dc",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASDpxrsuXy1CfassDglSBY3-mngS7SGEvV_x-8tHcsF_9Ao](https://keybase.io/hollowborn), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6ca7Ll8tQn2rLA4JUgWN/pp4Eu0hhL1f8fvLR3LBf/QKp3BheWxvYWTESpcCCcQgO9hBh48zU3ot5lPzhdsj/UdP7XCU09oLUF2ZOcAUotzEIEJzYeRhzVc/mehEMLFkFJPxCE0nkYlOxaiEHREqus0qAgHCo3NpZ8RAbxhZjHABHA+sAMoRJMUgUBHn4XaPVEiu7MVkG8ZS2XMBj/8rXxEttBevYtQXLsQK/GfU3bJfmgsNkVUUYTDsCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOeaf4LK6rqHuKDf5NWp9bG23oH+PsdI4WqWL0GHGDz9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/hollowborn
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id hollowborn
+```
